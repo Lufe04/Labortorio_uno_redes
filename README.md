@@ -1,1 +1,7 @@
 # Labortorio_uno_redes
+# Luisa Carpintero, Santiago Bonilla, Juan pablo Vargas
+# Introducción
+En la actualidad la accesibilidad al internet es un privilegio el cual la mayoría de gente da por sentado. La rapida evolución de la tecnología. A lo largo de las utltimas decadas ha transformado la manera en que las organizaciones y las personas se comunican y comparten información. Desde el surgimiento del internet se ha redefinido la comunicacion entre personas y dispositivos, demostrando la necesidad de la inmediatez en el momento de envíar o recibir datos, y con esto la importancia de las redes y la comunicación de datos. 
+En este trabajoo se tratará un reto especifico, pero que se observa en el diario vivir de cada hogar con internet. Se plantea el desafio que Anita Gnozalez y sus familiares naveguen por la página Web netflix.com, desde su casa, desde sus computadores personales y telefonos celulares, utilizando una red y comnunicación de datos. Para esto, se plantea una solución en el software Cisco Packet Tracer, el cual permite simular redes y conexiones.
+Se plantean nodos terminales que se cnectaran a un Router Wireless, el cual a su vez se encuentra conectado a un modem principal que se encargará de hacer la concexión a una nube que simulará ser el internet. La nube en su otro extremo se encontrará conectada al servidor en el cual se encuentra alojada la pagina web de netflix.com. en estas conexiones se manejaran diferentes tipos de cables depndiendo de los dispositivos, 
+
